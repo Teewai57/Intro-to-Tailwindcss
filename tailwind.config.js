@@ -16,6 +16,10 @@ module.exports = {
       'bermuda': '#78dcca',
     },
 
+    fontFamily: {
+      sans: ['Outfit', 'sans-serif'],
+    },
+
     extend: {},
   },
   plugins: [],
