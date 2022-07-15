@@ -563,6 +563,11 @@ video {
   background-color: rgb(63 60 187 / var(--tw-bg-opacity));
 }
 
+.bg-bermuda {
+  --tw-bg-opacity: 1;
+  background-color: rgb(120 220 202 / var(--tw-bg-opacity));
+}
+
 .text-3xl {
   font-size: 1.875rem;
   line-height: 2.25rem;
