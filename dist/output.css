@@ -562,6 +562,10 @@ video {
   display: flex;
 }
 
+.justify-between {
+  justify-content: space-between;
+}
+
 .bg-purple {
   --tw-bg-opacity: 1;
   background-color: rgb(63 60 187 / var(--tw-bg-opacity));
