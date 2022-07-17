@@ -562,8 +562,16 @@ video {
   display: flex;
 }
 
+.flex-row {
+  flex-direction: row;
+}
+
 .justify-between {
   justify-content: space-between;
+}
+
+.gap-4 {
+  gap: 1rem;
 }
 
 .bg-purple {
