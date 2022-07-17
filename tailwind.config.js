@@ -20,6 +20,10 @@ module.exports = {
       sans: ['Outfit', 'sans-serif'],
     },
 
+    container:{
+      center:true,
+      padding: '2rem'
+    },
     extend: {},
   },
   plugins: [],
