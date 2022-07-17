@@ -576,6 +576,16 @@ video {
   background-color: rgb(120 220 202 / var(--tw-bg-opacity));
 }
 
+.py-4 {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.px-8 {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
 .text-3xl {
   font-size: 1.875rem;
   line-height: 2.25rem;
@@ -593,6 +603,11 @@ video {
 .text-purple {
   --tw-text-opacity: 1;
   color: rgb(63 60 187 / var(--tw-text-opacity));
+}
+
+.text-white {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
 .underline {
