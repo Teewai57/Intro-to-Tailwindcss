@@ -562,6 +562,10 @@ video {
   display: flex;
 }
 
+.hidden {
+  display: none;
+}
+
 .flex-row {
   flex-direction: row;
 }
@@ -662,5 +666,11 @@ video {
 .underline {
   -webkit-text-decoration-line: underline;
           text-decoration-line: underline;
+}
+
+@media (min-width: 768px) {
+  .md\:flex {
+    display: flex;
+  }
 }
 
