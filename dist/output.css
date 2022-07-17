@@ -558,6 +558,10 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
+.flex {
+  display: flex;
+}
+
 .bg-purple {
   --tw-bg-opacity: 1;
   background-color: rgb(63 60 187 / var(--tw-bg-opacity));
