@@ -566,6 +566,10 @@ video {
   flex-direction: row;
 }
 
+.items-center {
+  align-items: center;
+}
+
 .justify-between {
   justify-content: space-between;
 }
@@ -592,6 +596,10 @@ video {
 .px-8 {
   padding-left: 2rem;
   padding-right: 2rem;
+}
+
+.align-middle {
+  vertical-align: middle;
 }
 
 .text-3xl {
