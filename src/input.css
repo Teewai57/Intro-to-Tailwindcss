@@ -2,3 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+.customBtn{
+    @apply bg-purple;
+    @apply shadow-md;
+}
+.customBtn:hover{
+    @apply bg-bubble-gum;
+    @apply shadow-xs;
+}
